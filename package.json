@@ -21,7 +21,7 @@
     "lunchbot"
   ],
   "dependencies": {
-    "@m4x1m1l14n/cache": "^1.1.0",
+    "@m4x1m1l14n/cache": "^1.2.0",
     "@slack/bolt": "^4.0.1",
     "dayjs": "^1.11.13",
     "dotenv": "~16.4.5",
